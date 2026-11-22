@@ -1,0 +1,1 @@
+-DUSB_PRODUCT=\"esp32-s3-vocal\"
